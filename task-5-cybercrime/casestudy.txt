@@ -1,0 +1,18 @@
+Cybercrime Case Study: UPI Payment Request Fraud
+Written by: Jadhav Radhesham (25BCE11168)
+
+What is the crime?
+UPI Payment Request Fraud is a financial scam where fraudsters trick victims into entering their UPI PIN to "receive" money. Instead, the money is instantly deducted from the victim's bank account.
+
+How it typically happens (Step-by-Step):
+1. The scammer contacts a student who has listed an old item (like a bicycle or textbook) for sale on an online platform.
+2. The scammer immediately agrees to the asking price to build trust and says they will send the money online via GPay or PhonePe.
+3. Instead of sending money, the scammer sends a "Payment Request" link or a QR code to the student's WhatsApp.
+4. The scammer calls the student and creates a sense of extreme urgency, saying, "I have sent the money, quickly enter your UPI PIN to receive it."
+5. Confused and in a hurry, the student enters their secret PIN. The requested amount is immediately deducted from their account.
+
+Who is targeted?
+College students selling second-hand items, elderly individuals, and people who are new to digital payments are the most common targets.
+
+Consequences:
+The immediate consequence is sudden financial loss. For college students, losing pocket money or semester fee savings causes severe mental stress. Recovering this money is also a very long and difficult process.

@@ -1,0 +1,17 @@
+Task 2: Digital Portfolio Setup
+Name: Jadhav Radhesham Sudarshan
+Reg No: 25BCE11168
+
+In this folder, I have uploaded the screenshots of my professional 
+profiles that I set up for this project. Being a CSE student, I 
+chose the following three platforms:
+
+1. LinkedIn: I set up my profile to connect with people in the tech 
+industry and highlighted my B.Tech details in the About section.
+
+2. GitHub: I created my account and added a short bio. I will use 
+this to upload all my future coding assignments and projects.
+
+3. HackerRank: I chose this instead of Kaggle because I want to 
+focus on improving my logic building and problem-solving speed 
+in Python first.

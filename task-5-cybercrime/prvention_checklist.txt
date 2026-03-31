@@ -1,0 +1,11 @@
+Stay Safe Online: Cybercrime Prevention Checklist for College Students
+Created by: Jadhav Radhesham (25BCE11168)
+
+1. NEVER enter your UPI PIN to receive money. Your PIN is only used when you are sending money to someone or checking your balance.
+2. Always verify the receiver's name and the amount displayed on your UPI app before completing any transaction.
+3. Do not scan random QR codes sent by unknown buyers or sellers over WhatsApp or email.
+4. Use strong, unique passwords for your college portal, personal email, and social media accounts.
+5. Enable Two-Factor Authentication (2FA) on all your important accounts to add an extra layer of security.
+6. Avoid using free or public Wi-Fi networks (like at cafes or railway stations) when making financial transactions.
+7. Keep your smartphone and laptop software up to date to protect against new security threats.
+8. Reporting Channel: If you or your friend becomes a victim of online fraud, immediately call the National Cyber Crime Helpline at 1930. You can also file a complaint online at the National Cyber Crime Reporting Portal (cybercrime.gov.in).
